@@ -1,8 +1,8 @@
 ## The app
 
-This is a basic project build with React to show the fundamental concepts of State, Props and Components used by the framework. The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), a boilerplate for build react app, and [Semantic UI](https://semantic-ui.com/) to style.
+This is a basic project build with React to show the fundamental concepts of State, Props and Components used by the framework. The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), a boilerplate for building react app.
 
-The app render a Product List, using fake data, and the products listed are sorting by user's votes in real-time
+The app render a Product List, using fake data, and the products listed are sorting in real-time by the user votes.
 
 ## How to use
 
